@@ -1,4 +1,4 @@
-# **Generative Adversarial Network for Image Production**
+# **Genrative DeepLearning Model for Image Creation**
 ![Python](https://img.shields.io/badge/Python-3.12.4-blueviolet)
 ![Tensorflow](https://img.shields.io/badge/API-Tensorflow-fcba03)
 ![JupyterNB](https://img.shields.io/badge/Editor-JupyterNB-blue)
