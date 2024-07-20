@@ -71,7 +71,7 @@ In this project, I successfully built and trained a Generative Adversarial Netwo
 
 ## References 
 1. [What are GANs](https://www.geeksforgeeks.org/generative-adversarial-network-gan/)
-2. [Projet Link for youtube expanation](https://www.youtube.com/watch?v=AALBGpLbj6Q&ab_channel=NicholasRenotte) 
+2. [Project link for Youtube explanation](https://www.youtube.com/watch?v=AALBGpLbj6Q&ab_channel=NicholasRenotte) 
 
 ## Usage
 To use this project, follow these steps:
