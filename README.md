@@ -69,6 +69,10 @@ The job of the generator is to create data indistinguishable to the original dat
 ## Conclusion
 In this project, I successfully built and trained a Generative Adversarial Network (GAN) to generate fashion clothing images. This project demonstrated the potential of GANs to create new, realistic images from random noise input. The model was trained using TensorFlow and Keras, and the final generator model was saved as ```generatormodel.h5```.
 
+## References 
+1. [What are GANs](https://www.geeksforgeeks.org/generative-adversarial-network-gan/)
+2. [Projet Link for youtube expanation](https://www.youtube.com/watch?v=AALBGpLbj6Q&ab_channel=NicholasRenotte) 
+
 ## Usage
 To use this project, follow these steps:
 
@@ -91,6 +95,5 @@ pip install tensorflow keras numpy matplotlib opencv-python scikit-learn
 jupyter notebook main.ipynb
 ```
 6. Run the cells in the notebook to train and evaluate the model.
-
-## Reach Out
+---
 If you have any contributions to make or any queries/doubts related to the project, you can reach me at ```venomc381@gmail.com```.
