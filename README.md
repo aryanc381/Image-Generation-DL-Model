@@ -1,1 +1,1 @@
-"Generative Fashion Model" 
+# Generative Fashion Model
